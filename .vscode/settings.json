@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "FoxyBalls.slnx"
+    "dotnet.defaultSolution": "projtest.slnx"
 }
